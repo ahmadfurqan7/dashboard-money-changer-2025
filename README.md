@@ -4,6 +4,8 @@ An interactive **Power BI** dashboard for monitoring foreign exchange (money cha
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![header](https://github.com/ahmadfurqan7/dashboard-money-changer-2025/blob/main/Dashboard%20Penjualan%20Money%20Changer%20%E2%80%94%202025-1.png)
+![header](https://github.com/ahmadfurqan7/dashboard-money-changer-2025/blob/main/Dashboard%20Penjualan%20Money%20Changer%20%E2%80%94%202025-2.png)
 
 ---
 
